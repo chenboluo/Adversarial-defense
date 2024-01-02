@@ -20,7 +20,7 @@ To test our method, we need to go into the ours folder.
 ```
 cd ~/ours/
 ```
-Then just run my_test.py.
+Change the path to the cifar10 file and the path to model in my_test.py. Then just run my_test.py.
 ```
 python my_test.py 
 ```
@@ -30,7 +30,7 @@ To test compare method, we need to go into the AT folder.
 ```
 cd ~/AT/
 ```
-Then just run my_test.py.
+Change the path to the cifar10 file and the path to model in my_test.py. Then just run my_test.py.
 ```
 python my_test.py 
 ```

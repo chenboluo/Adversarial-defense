@@ -12,7 +12,7 @@ We use the dataset loaders for the Cifar-10. Put it in that folder, or change th
 
 ## Models
 We present our approach along with ResNet18 of AT in two my_model files. The detailed design of both models can be found in resnet.py.
-
+you can get model from https://drive.google.com/drive/folders/1fMJjITtPlqkyyQfjLSaWouYS0nbtmWEf?usp=drive_link.
 
 ## Usage
 ### testing our method 
